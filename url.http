@@ -1,0 +1,8 @@
+
+
+###
+GET http://localhost:3000/product_transaction/?month=1&page_no=1&search=
+
+### 
+
+GET http://localhost:3000/product_statistics/?month=1
